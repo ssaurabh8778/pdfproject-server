@@ -28,6 +28,7 @@ Following steps need to be followed:
 5. Install required packages under virtual environment with 'pip install -r requirements.txt'
 6. Update wsgi file from dashboard
 7. Reload the app from the button provided on the dashboard. It will start the server.
+
 See the detailed instructions in this video [deploy django app on pythonanywhere](https://www.youtube.com/watch?v=Y4c4ickks2A&t=810s)
 
 
