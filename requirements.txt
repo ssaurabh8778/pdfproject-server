@@ -1,0 +1,4 @@
+django
+django-cors-headers
+PyPDF2
+pdfminer
