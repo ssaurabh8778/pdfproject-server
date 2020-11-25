@@ -2,7 +2,7 @@
 
 ## To run the server on local machine.
 
-Clone the repository to local directory. In the project directory, you can run:
+Clone the repository to local directory. In the project directory & run following commands:
 
 ### `pip install -r requirements.txt`
 
