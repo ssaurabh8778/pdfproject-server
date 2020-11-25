@@ -7,10 +7,10 @@ Clone the repository to local directory. In the project directory & run followin
 ### `pip install -r requirements.txt`
 
 To install all the required modules. Below mentioned modules need to be installed to run this app.
-#####django
-#####django-cors-headers
-#####PyPDF2
-#####pdfminer
+1. django
+2. django-cors-headers
+3. PyPDF2
+4. pdfminer
 
 ### `python manage.py runserver`
 
