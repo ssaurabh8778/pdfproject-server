@@ -15,7 +15,7 @@ To install all the required modules. Below mentioned modules need to be installe
 ### `python manage.py runserver`
 
 Now change directory to "/pdfdetails_backend". It should be having manage.py file.
-Then hit the command 'python manage.py runserver'
+Then hit the command 'python manage.py runserver'.
 It will start the server.
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
